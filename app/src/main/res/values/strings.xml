@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MakIntent</string>
+    <string name="utb_website">UTB Website</string>
+    <string name="intent_example">Intent Basic</string>
+    <string name="phone">Phone</string>
+    <string name="map_of_brno">Map of Brno</string>
+    <string name="calendar_event">Calendar Event</string>
+</resources>
